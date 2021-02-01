@@ -1,4 +1,4 @@
-# CodilityAnswers
+# Tape Equilibrium
 You can find my answer of codility Problems in python
 Task description A non-empty array A consisting of N integers is given. Array A represents numbers on a tape.
 
